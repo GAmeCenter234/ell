@@ -15,7 +15,7 @@ temp = w.temperature('celsius')['temp']
 print("В городе " + city + " сейчас " + str(temp) + " градусов!")
 
 if(temp <= 10):
-    print("Ппц холодно")
+    print("Ппц холодно!!!")
 
 #eel.init("web")
 #eel.start("main.html", size=("700, 700"))
